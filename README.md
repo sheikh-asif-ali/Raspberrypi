@@ -11,6 +11,6 @@ Step 4: Integrate the required Sensor to the Rpi
 
 Step 5: Copy the git respository library & clone it in the Rpi using git clone command.
 
-Step 5: Run the .py code & check for the desired results.
+Step 6: Run the .py code & check for the desired results.
 
-Step 6: Enjoy
+Step 7: Enjoy
